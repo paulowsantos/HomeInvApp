@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HomeInvApp</string>
+    <string name="app_name">HomeInv</string>
     <string name="title_home">Home</string>
     <string name="title_shopping">Shopping List</string>
     <string name="title_directions">Directions</string>
