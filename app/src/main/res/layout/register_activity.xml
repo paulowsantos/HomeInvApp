@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_dark_background">
+
+    <ImageView
+        android:id="@+id/logo_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logo" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/logo_start"
+        android:hint="Name"
+        android:id="@+id/regName" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/regName"
+        android:hint="E-mail"
+        android:id="@+id/regEmail" />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/regEmail"
+        android:id="@+id/regPass"
+        android:hint="Password" />
+
+
+
+    <Button
+        android:text="Sign up!"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:textColor="#FFFF"
+        android:id="@+id/submitButton"
+        android:layout_below="@id/regPass"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimary"/>
+
+
+    <Button
+        android:text="Already a member?"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:id="@+id/loginButton"
+        android:background="@null"
+        android:textColor="@color/colorPrimary"
+        android:layout_below="@id/submitButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        />
+
+
+</RelativeLayout>

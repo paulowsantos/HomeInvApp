@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002155440362",
+    "firebase_url": "https://homeinvapp.firebaseio.com",
+    "project_id": "homeinvapp",
+    "storage_bucket": "homeinvapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002155440362:android:f2e6cc6e1a6552e3",
+        "android_client_info": {
+          "package_name": "pwayner.com.homeinvapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002155440362-q9kes1okgvlrsmdd64o6fou8edmeinjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pwayner.com.homeinvapp",
+            "certificate_hash": "0812c71a1370f699f381cd5858cd4be32c71a4ab"
+          }
+        },
+        {
+          "client_id": "1002155440362-akr6pdaqcp5vpc7m6pp4nc0nvvhbm181.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzR2TRaVzU2qjacMvrjioJ55HLKPuE3HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002155440362-akr6pdaqcp5vpc7m6pp4nc0nvvhbm181.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
