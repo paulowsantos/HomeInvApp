@@ -1,80 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/cardview_dark_background">
+    android:background="@color/back"
+    android:orientation="vertical">
 
     <ImageView
         android:id="@+id/logo_start"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="130dp"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
         android:src="@drawable/logo" />
 
     <EditText
+        android:id="@+id/loginEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="textEmailAddress"
-        android:layout_marginTop="10dp"
         android:layout_below="@id/logo_start"
+        android:layout_marginTop="10dp"
         android:hint="E-mail"
-        android:id="@+id/loginEmail" />
+        android:inputType="textEmailAddress"
+        android:textColor="@color/cardview_light_background"
+        android:text="teste@email.com"
+        android:textColorHighlight="#ff0000" />
 
 
     <EditText
+        android:id="@+id/loginPass"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="textPassword"
-        android:ems="10"
-        android:layout_marginTop="10dp"
         android:layout_below="@id/loginEmail"
-        android:id="@+id/loginPass"
-        android:hint="Password" />
-
+        android:layout_marginTop="10dp"
+        android:textColor="@color/cardview_light_background"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:text="123456"
+        android:textColorHighlight="#ff0000" />
 
 
     <LinearLayout
         android:id="@+id/buttons"
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:orientation="horizontal"
         android:layout_below="@id/loginPass"
-        android:gravity="center">
+        android:gravity="center"
+        android:orientation="horizontal">
+
         <Button
-            android:text="Login"
             android:id="@+id/loginButton"
             android:layout_width="140dp"
             android:layout_height="45dp"
-            android:textColor="#FFFF"
-            android:textAllCaps="true"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
-            android:background="@color/colorPrimary"/>
+            android:background="@color/colorPrimary"
+            android:text="Login"
+            android:textAllCaps="true"
+            android:textColor="#FFFF" />
 
         <Button
-            android:text="Register!"
             android:id="@+id/registerButton"
             android:layout_width="140dp"
             android:layout_height="45dp"
-            android:layout_marginTop="10dp"
             android:layout_marginLeft="10dp"
-            android:textColor="#FFFF"
-            android:background="@color/colorPrimary"/>
+            android:layout_marginTop="10dp"
+            android:background="@color/colorPrimary"
+            android:text="Register!"
+            android:textColor="#FFFF" />
     </LinearLayout>
 
     <Button
-        android:text="I forgot password"
+        android:id="@+id/forgotButton"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:textAllCaps="false"
-        android:id="@+id/forgotButton"
-        android:background="@null"
-        android:layout_centerHorizontal="true"
         android:layout_below="@id/buttons"
-        android:textColor="@color/colorPrimary"
+        android:layout_centerHorizontal="true"
         android:layout_marginBottom="8dp"
-        />
+        android:background="@null"
+        android:text="I forgot my password"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimary" />
 
 
 </RelativeLayout>
