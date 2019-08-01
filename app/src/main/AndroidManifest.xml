@@ -24,6 +24,12 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".MainActivity" />
+        <activity android:name=".Popup"
+            android:theme="@style/AppTheme.CustomTheme"/>
+        <activity android:name=".Popup2"
+            android:theme="@style/AppTheme.CustomTheme"/>
+        <activity android:name=".Popup_Cat"
+            android:theme="@style/AppTheme.CustomTheme"/>
     </application>
 
 </manifest>

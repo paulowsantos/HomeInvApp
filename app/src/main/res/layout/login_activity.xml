@@ -54,10 +54,11 @@
             android:layout_height="45dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
-            android:background="@color/colorPrimary"
+            android:background="@drawable/mybutton"
             android:text="Login"
             android:textAllCaps="true"
-            android:textColor="#FFFF" />
+            android:textColor="#FFFF"
+            />
 
         <Button
             android:id="@+id/registerButton"
@@ -65,7 +66,7 @@
             android:layout_height="45dp"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
-            android:background="@color/colorPrimary"
+            android:background="@drawable/mybutton"
             android:text="Register!"
             android:textColor="#FFFF" />
     </LinearLayout>

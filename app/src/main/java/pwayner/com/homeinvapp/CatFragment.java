@@ -24,15 +24,15 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 
-public class HomeFragment extends Fragment {
+public class CatFragment extends Fragment {
 
-    RecyclerView itemRecycler;
-    ArrayList<Items> itemList;
+    RecyclerView categoryRecycler;
+    ArrayList<Category> categoryList;
     private FirebaseDatabase database;
-    private DatabaseReference tableItems;
-    private MyAdapter adapter;
+    private DatabaseReference tableCategory;
+    private MyAdapter2 adapter;
 
-    public HomeFragment() {
+    public CatFragment() {
     }
 
     @Override
@@ -48,48 +48,32 @@ public class HomeFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.home_fragment, container, false);
-        FloatingActionButton floatingButton = (FloatingActionButton) view.findViewById(R.id.fab);
-        floatingButton.setAlpha(0.5f);
+        View view = inflater.inflate(R.layout.cat_fragment, container, false);
 
-        floatingButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(getContext(), Popup2.class);
-
-                startActivity(intent);
-            }
-        });
 
         database = FirebaseDatabase.getInstance();
-        tableItems = database.getInstance().getReference("items");
+        tableCategory = database.getInstance().getReference("category");
 
-        itemList = new ArrayList<>();
-        itemRecycler = view.findViewById(R.id.recyclerId);
-        itemRecycler.setLayoutManager(new GridLayoutManager(getContext(), 1));
+        categoryList = new ArrayList<>();
+        categoryRecycler = view.findViewById(R.id.recyclerId2);
+        categoryRecycler.setLayoutManager(new GridLayoutManager(getContext(), 1));
 
         fillList();
 
-        adapter = new MyAdapter(itemList);
+        adapter = new MyAdapter2(categoryList);
 
         adapter.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
-
-                Intent intent = new Intent(getContext(), Popup.class);
-
-                intent.putExtra("Name", itemList.get(itemRecycler.getChildAdapterPosition(view)).getName());
-                intent.putExtra("Cat", itemList.get(itemRecycler.getChildAdapterPosition(view)).getCategory());
-                intent.putExtra("Qtt", itemList.get(itemRecycler.getChildAdapterPosition(view)).getQtt());
-                intent.putExtra("Qtt_min", itemList.get(itemRecycler.getChildAdapterPosition(view)).getQtt_min());
-                intent.putExtra("ID", itemList.get(itemRecycler.getChildAdapterPosition(view)).getId());
-
-
-                startActivity(intent);
+                String pass = "";
+                Popup pops = new Popup();
+                pass = categoryList.get(categoryRecycler.getChildAdapterPosition(view)).getName();
+                Log.d("teste", pass);
+                pops.getCat(pass);
             }
         });
-        itemRecycler.setAdapter(adapter);
+        categoryRecycler.setAdapter(adapter);
 
         return view;
     }
@@ -97,17 +81,14 @@ public class HomeFragment extends Fragment {
     private void fillList() {
 
 
-        tableItems.addValueEventListener(new ValueEventListener() {
+        tableCategory.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                itemList.clear();
+                categoryList.clear();
                 for (DataSnapshot itemSnapshot : dataSnapshot.getChildren()) {
-                    Items item = itemSnapshot.getValue(Items.class);
-                    itemList.add(item);
+                    Category catt = itemSnapshot.getValue(Category.class);
+                    categoryList.add(catt);
                 }
-                /*for (Items it : itemList){
-                    Log.d("teste", it.getName());
-                }*/
                 adapter.notifyDataSetChanged();
             }
 

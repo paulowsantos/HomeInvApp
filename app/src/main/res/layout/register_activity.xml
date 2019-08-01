@@ -55,7 +55,7 @@
         android:id="@+id/submitButton"
         android:layout_below="@id/regPass"
         android:layout_centerHorizontal="true"
-        android:background="@color/colorPrimary"/>
+        android:background="@drawable/mybutton"/>
 
 
     <Button
