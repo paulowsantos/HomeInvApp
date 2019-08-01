@@ -85,7 +85,9 @@ public class Popup2 extends Activity {
         btn_cat.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //loadFragment(new CatFragment());
+
+                Intent cat = new Intent(Popup2.this, Popup_Cat.class);
+                startActivityForResult(cat, 1);
             }
         });
 
@@ -132,12 +134,15 @@ public class Popup2 extends Activity {
         getWindow().setLayout((int) (width*.8), (int) (height*.6));
     }
 
-    /*public void loadFragment(Fragment fragment){
-        FragmentManager mFragmentManager = getSupportFragmentManager();
-        FragmentTransaction mTransaction = mFragmentManager.beginTransaction();
-        mTransaction.replace(R.id.frameLayout, fragment);
-        mTransaction.addToBackStack(null);
-        mTransaction.setCustomAnimations(android.R.animator.fade_in, android.R.animator.fade_out, android.R.animator.fade_in, android.R.animator.fade_out);
-        mTransaction.commit();
-    }*/
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+        if (requestCode == 1) {
+            if(resultCode == Activity.RESULT_OK){
+                String result = data.getStringExtra("result");
+                btn_cat = (Button) findViewById(R.id.btn_cat);
+                btn_cat.setText(result);
+            }
+        }
+    }
 }

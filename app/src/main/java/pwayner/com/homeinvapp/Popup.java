@@ -80,8 +80,9 @@ public class Popup extends AppCompatActivity {
         btn_cat.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 Intent cat = new Intent(Popup.this, Popup_Cat.class);
-                startActivity(cat);
+                startActivityForResult(cat, 1);
             }
         });
 
@@ -131,8 +132,16 @@ public class Popup extends AppCompatActivity {
 
     }
 
-    public void getCat(String cat){
-        txt_cat = cat;
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+        if (requestCode == 1) {
+            if(resultCode == Activity.RESULT_OK){
+                String result = data.getStringExtra("result");
+                btn_cat = (Button) findViewById(R.id.btn_cat);
+                btn_cat.setText(result);
+            }
+        }
     }
 
 }

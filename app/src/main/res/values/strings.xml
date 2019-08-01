@@ -3,4 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_shopping">Shopping List</string>
     <string name="title_directions">Directions</string>
+    <string-array name="state">
+        <item>towel_paper</item>
+        <item>HI</item>
+    </string-array>
 </resources>

@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/back">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="Directions"/>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-    <Button
-        android:id="@+id/gotoi"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        android:background="@drawable/mybutton"/>
+        <Button
+            android:id="@+id/gotoWalmart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Go to Walmart"
+            android:background="@drawable/mybutton"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="200dp"
+            android:layout_marginHorizontal="20dp"/>
 
-</RelativeLayout>
+        <Button
+            android:id="@+id/gotoCanadian"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Go to Real Canadian Superstore"
+            android:background="@drawable/mybutton"
+            app:layout_constraintTop_toBottomOf="@+id/gotoWalmart"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="50dp"
+            android:layout_marginHorizontal="20dp" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+</FrameLayout>

@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="pwayner.com.homeinvapp">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -11,6 +11,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <receiver
+            android:name=".DBConnectivity"
+            android:enabled="true"
+            android:exported="true"></receiver>
 
         <activity
             android:name=".LoadingScreen"
@@ -24,12 +28,19 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".MainActivity" />
-        <activity android:name=".Popup"
-            android:theme="@style/AppTheme.CustomTheme"/>
-        <activity android:name=".Popup2"
-            android:theme="@style/AppTheme.CustomTheme"/>
-        <activity android:name=".Popup_Cat"
-            android:theme="@style/AppTheme.CustomTheme"/>
+        <activity
+            android:name=".Popup"
+            android:theme="@style/AppTheme.CustomTheme" />
+        <activity
+            android:name=".Popup2"
+            android:theme="@style/AppTheme.CustomTheme" />
+        <activity
+            android:name=".Popup_Cat"
+            android:theme="@style/AppTheme.CustomTheme" />
+
+        <service
+            android:name=".DownloadService"
+            android:exported="false" />
     </application>
 
 </manifest>

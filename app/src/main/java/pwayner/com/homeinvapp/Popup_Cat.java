@@ -1,5 +1,7 @@
 package pwayner.com.homeinvapp;
 
+import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.View;
@@ -20,6 +22,7 @@ public class Popup_Cat extends AppCompatActivity {
 
     private FirebaseDatabase database;
     private DatabaseReference tableItems;
+    String result1;
 
 
 
@@ -39,6 +42,7 @@ public class Popup_Cat extends AppCompatActivity {
         Fragment frag = new CatFragment();
         loadFragment(frag);
 
+
     }
 
     public void loadFragment(Fragment fragment){
@@ -48,5 +52,13 @@ public class Popup_Cat extends AppCompatActivity {
         mTransaction.addToBackStack(null);
         mTransaction.setCustomAnimations(android.R.animator.fade_in, android.R.animator.fade_out, android.R.animator.fade_in, android.R.animator.fade_out);
         mTransaction.commit();
+    }
+
+    public void getCat1(String cat1){
+        result1 = cat1;
+        Intent returnIntent = new Intent();
+        returnIntent.putExtra("result",result1);
+        setResult(Activity.RESULT_OK,returnIntent);
+        finish();
     }
 }

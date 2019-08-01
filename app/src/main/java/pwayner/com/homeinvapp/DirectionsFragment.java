@@ -15,6 +15,8 @@ import androidx.fragment.app.Fragment;
 
 public class DirectionsFragment extends Fragment {
 
+    Button directWal, directCan;
+
     public DirectionsFragment() {
     }
 
@@ -32,12 +34,23 @@ public class DirectionsFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.directions_fragment, container, false);
-        Button directi = (Button) view.findViewById(R.id.gotoi);
+        directWal = (Button) view.findViewById(R.id.gotoWalmart);
+        directCan = (Button) view.findViewById(R.id.gotoCanadian);
 
-        directi.setOnClickListener(new View.OnClickListener() {
+        directWal.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Uri gmmIntentUri = Uri.parse("geo:0,0?q=walmart");
+                Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
+                mapIntent.setPackage("com.google.android.apps.maps");
+                startActivity(mapIntent);
+            }
+        });
+
+        directCan.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Uri gmmIntentUri = Uri.parse("geo:0,0?q=real canadian superstore");
                 Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
                 mapIntent.setPackage("com.google.android.apps.maps");
                 startActivity(mapIntent);
