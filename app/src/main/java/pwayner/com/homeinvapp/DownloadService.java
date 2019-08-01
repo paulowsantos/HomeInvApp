@@ -43,7 +43,7 @@ public class DownloadService extends IntentService {
         Log.d("how params look like",params);
 
         // do some work
-        String site = "http://ec2-18-221-111-122.us-east-2.compute.amazonaws.com:8000";
+        String site = "http://ec2-18-191-61-47.us-east-2.compute.amazonaws.com:8000";
 
 
         String results = getRemoteData(site,params);
