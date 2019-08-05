@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Sourdough",
+    "priceC": 173.84,
+    "priceW": 33.12
+  },
+  {
+    "name": "Chicken legs",
+    "priceC": 206.24,
+    "priceW": 49.99
+  },
+  {
+    "name": "Sprouts",
+    "priceC": 164.92,
+    "priceW": 79.67
+  },
+  {
+    "name": "Pork rinds",
+    "priceC": 282.59,
+    "priceW": 183.8
+  },
+  {
+    "name": "Hamburgers",
+    "priceC": 132.06,
+    "priceW": 179.34
+  },
+  {
+    "name": "Ready bake goods",
+    "priceC": 14.14,
+    "priceW": 41.64
+  },
+  {
+    "name": "Papaya",
+    "priceC": 76.66,
+    "priceW": 229.93
+  },
+  {
+    "name": "Meat sauce",
+    "priceC": 28.27,
+    "priceW": 41.25
+  },
+  {
+    "name": "Peas",
+    "priceC": 1.17,
+    "priceW": 35.04
+  },
+  {
+    "name": "Carpet cleaner",
+    "priceC": 163.9,
+    "priceW": 227.25
+  },
+  {
+    "name": "Antiseptic - Hydrogen Peroxide",
+    "priceC": 267.38,
+    "priceW": 186.43
+  },
+  {
+    "name": "Basil",
+    "priceC": 64.11,
+    "priceW": 82.36
+  },
+  {
+    "name": "Antiseptic - Rubbing alcohol",
+    "priceC": 199.95,
+    "priceW": 53.43
+  },
+  {
+    "name": "Baby Lotion",
+    "priceC": 39.94,
+    "priceW": 101.79
+  },
+  {
+    "name": "Halibut",
+    "priceC": 290.92,
+    "priceW": 298.09
+  },
+  {
+    "name": "Peas",
+    "priceC": 136.78,
+    "priceW": 54.74
+  },
+  {
+    "name": "Cosmetics",
+    "priceC": 228.61,
+    "priceW": 299.33
+  },
+  {
+    "name": "Raisin bread",
+    "priceC": 274.4,
+    "priceW": 170.5
+  },
+  {
+    "name": "HP sauce",
+    "priceC": 208.02,
+    "priceW": 20.53
+  },
+  {
+    "name": "Bathroom cleaner",
+    "priceC": 169.24,
+    "priceW": 201.55
+  },
+  {
+    "name": "French bread",
+    "priceC": 149.53,
+    "priceW": 78.85
+  },
+  {
+    "name": "Napkins",
+    "priceC": 197.84,
+    "priceW": 180.79
+  },
+  {
+    "name": "Garlic",
+    "priceC": 242.4,
+    "priceW": 157.07
+  },
+  {
+    "name": "Half &amp; half",
+    "priceC": 183.4,
+    "priceW": 132.05
+  },
+  {
+    "name": "Bottle liners",
+    "priceC": 187.03,
+    "priceW": 230.5
+  },
+  {
+    "name": "Cream cheese",
+    "priceC": 98.9,
+    "priceW": 50.76
+  },
+  {
+    "name": "Bouillon cubes",
+    "priceC": 214.06,
+    "priceW": 200.83
+  },
+  {
+    "name": "Sword fish",
+    "priceC": 238.22,
+    "priceW": 148.59
+  },
+  {
+    "name": "Bottle liners",
+    "priceC": 203.6,
+    "priceW": 166.99
+  },
+  {
+    "name": "Cake",
+    "priceC": 167.9,
+    "priceW": 167.79
+  },
+  {
+    "name": "Non-stick spray",
+    "priceC": 65.31,
+    "priceW": 86.74
+  },
+  {
+    "name": "Red snapper",
+    "priceC": 291.52,
+    "priceW": 238.3
+  },
+  {
+    "name": "Macaroni",
+    "priceC": 45.67,
+    "priceW": 221.97
+  },
+  {
+    "name": "Fruit juice",
+    "priceC": 30.2,
+    "priceW": 18.2
+  },
+  {
+    "name": "Hamburgers",
+    "priceC": 222.92,
+    "priceW": 65.87
+  },
+  {
+    "name": "Flea collar",
+    "priceC": 147.05,
+    "priceW": 281.22
+  },
+  {
+    "name": "Jell-O",
+    "priceC": 240.99,
+    "priceW": 229.11
+  },
+  {
+    "name": "Mussels",
+    "priceC": 292.51,
+    "priceW": 149.19
+  },
+  {
+    "name": "Vitamins",
+    "priceC": 102.86,
+    "priceW": 156.92
+  },
+  {
+    "name": "Hot dogs",
+    "priceC": 253.23,
+    "priceW": 104.74
+  },
+  {
+    "name": "Hamburgers",
+    "priceC": 154.87,
+    "priceW": 162.42
+  },
+  {
+    "name": "Soup",
+    "priceC": 28.82,
+    "priceW": 57.06
+  },
+  {
+    "name": "Steak",
+    "priceC": 223.63,
+    "priceW": 81.65
+  },
+  {
+    "name": "French bread",
+    "priceC": 102.22,
+    "priceW": 180.03
+  },
+  {
+    "name": "Baby food",
+    "priceC": 89.36,
+    "priceW": 289
+  },
+  {
+    "name": "Non-stick spray",
+    "priceC": 46.24,
+    "priceW": 219.66
+  },
+  {
+    "name": "Toilet bowl cleaner",
+    "priceC": 298.02,
+    "priceW": 110.4
+  },
+  {
+    "name": "Mustard",
+    "priceC": 33.86,
+    "priceW": 109.73
+  },
+  {
+    "name": "Pumpkin",
+    "priceC": 7.4,
+    "priceW": 157.29
+  },
+  {
+    "name": "Rutabagas",
+    "priceC": 254.33,
+    "priceW": 293.85
+  },
+  {
+    "name": "Salad dressing",
+    "priceC": 290.61,
+    "priceW": 119.63
+  },
+  {
+    "name": "Cream",
+    "priceC": 10.35,
+    "priceW": 214.06
+  },
+  {
+    "name": "Trail mix",
+    "priceC": 279.1,
+    "priceW": 6.43
+  },
+  {
+    "name": "Protein bars",
+    "priceC": 155.77,
+    "priceW": 28.36
+  },
+  {
+    "name": "Potato nuggets",
+    "priceC": 277.5,
+    "priceW": 84.79
+  },
+  {
+    "name": "Chips",
+    "priceC": 285.75,
+    "priceW": 169.79
+  },
+  {
+    "name": "Escargot (snails)",
+    "priceC": 236.2,
+    "priceW": 294.6
+  },
+  {
+    "name": "Nuts",
+    "priceC": 240.91,
+    "priceW": 220.84
+  },
+  {
+    "name": "Endives",
+    "priceC": 158.91,
+    "priceW": 131.81
+  },
+  {
+    "name": "Olives",
+    "priceC": 283.54,
+    "priceW": 134.47
+  },
+  {
+    "name": "Milk",
+    "priceC": 90.95,
+    "priceW": 253.7
+  },
+  {
+    "name": "Baby food",
+    "priceC": 243.79,
+    "priceW": 123.89
+  },
+  {
+    "name": "Hot sauce",
+    "priceC": 40.5,
+    "priceW": 215.63
+  },
+  {
+    "name": "Protein bars",
+    "priceC": 262.95,
+    "priceW": 176
+  },
+  {
+    "name": "Salmon",
+    "priceC": 25.16,
+    "priceW": 120.14
+  },
+  {
+    "name": "Bananas",
+    "priceC": 57.72,
+    "priceW": 236.1
+  },
+  {
+    "name": "Raisin bread",
+    "priceC": 230.78,
+    "priceW": 104.74
+  },
+  {
+    "name": "Lemon juice",
+    "priceC": 235.62,
+    "priceW": 153.6
+  },
+  {
+    "name": "Carpet freshener",
+    "priceC": 168.98,
+    "priceW": 99.43
+  },
+  {
+    "name": "Garbage bags",
+    "priceC": 45.91,
+    "priceW": 107.35
+  },
+  {
+    "name": "Pork &amp; beans",
+    "priceC": 178.94,
+    "priceW": 270.29
+  },
+  {
+    "name": "Wax paper",
+    "priceC": 189,
+    "priceW": 173.37
+  },
+  {
+    "name": "Beets",
+    "priceC": 195.87,
+    "priceW": 150.64
+  },
+  {
+    "name": "Brown sugar",
+    "priceC": 296.89,
+    "priceW": 94.56
+  },
+  {
+    "name": "First-aid kit",
+    "priceC": 93.1,
+    "priceW": 68.03
+  },
+  {
+    "name": "Honey comb",
+    "priceC": 281.38,
+    "priceW": 143.84
+  },
+  {
+    "name": "Pepper",
+    "priceC": 60.33,
+    "priceW": 158.47
+  },
+  {
+    "name": "Ravioli",
+    "priceC": 260.81,
+    "priceW": 168.38
+  },
+  {
+    "name": "Decorations",
+    "priceC": 258.93,
+    "priceW": 284.51
+  },
+  {
+    "name": "Garbage bags",
+    "priceC": 280.09,
+    "priceW": 204.63
+  },
+  {
+    "name": "Chili Sauce",
+    "priceC": 173.24,
+    "priceW": 154.77
+  },
+  {
+    "name": "Stew",
+    "priceC": 138.1,
+    "priceW": 55.83
+  },
+  {
+    "name": "Parsnips",
+    "priceC": 159.91,
+    "priceW": 280.62
+  },
+  {
+    "name": "Sprouts",
+    "priceC": 128.08,
+    "priceW": 1.53
+  },
+  {
+    "name": "Hot sauce",
+    "priceC": 223.41,
+    "priceW": 274.79
+  },
+  {
+    "name": "Oat meal",
+    "priceC": 57.33,
+    "priceW": 1.96
+  },
+  {
+    "name": "Chili",
+    "priceC": 211.63,
+    "priceW": 12.36
+  },
+  {
+    "name": "Mousse",
+    "priceC": 279.79,
+    "priceW": 148.05
+  },
+  {
+    "name": "Cat food",
+    "priceC": 228.73,
+    "priceW": 136.01
+  },
+  {
+    "name": "Travel pack",
+    "priceC": 68.55,
+    "priceW": 21.24
+  },
+  {
+    "name": "Cheese slices",
+    "priceC": 188.22,
+    "priceW": 67.49
+  },
+  {
+    "name": "Cottage cheese",
+    "priceC": 253.71,
+    "priceW": 196.21
+  },
+  {
+    "name": "Toilet paper",
+    "priceC": 49.52,
+    "priceW": 243.84
+  },
+  {
+    "name": "Baby cookies",
+    "priceC": 19.28,
+    "priceW": 85.65
+  },
+  {
+    "name": "Mac&amp;cheese",
+    "priceC": 196.54,
+    "priceW": 97.36
+  },
+  {
+    "name": "Shaving cream",
+    "priceC": 180.1,
+    "priceW": 31.64
+  },
+  {
+    "name": "Onion rings",
+    "priceC": 12.71,
+    "priceW": 282.76
+  },
+  {
+    "name": "Pie",
+    "priceC": 91.21,
+    "priceW": 15.68
+  },
+  {
+    "name": "Scrubbers",
+    "priceC": 182.38,
+    "priceW": 127.44
+  },
+  {
+    "name": "Rice",
+    "priceC": 67.29,
+    "priceW": 252.43
+  },
+  {
+    "name": "Veggie dogs",
+    "priceC": 14.49,
+    "priceW": 163.01
+  },
+  {
+    "name": "Vitamins",
+    "priceC": 122.92,
+    "priceW": 42.93
+  },
+  {
+    "name": "Chicken bologna",
+    "priceC": 264.48,
+    "priceW": 171.96
+  },
+  {
+    "name": "Sprinkles",
+    "priceC": 227.43,
+    "priceW": 92.92
+  },
+  {
+    "name": "Basil",
+    "priceC": 223.41,
+    "priceW": 299.76
+  },
+  {
+    "name": "Peanuts",
+    "priceC": 157.91,
+    "priceW": 36.23
+  },
+  {
+    "name": "Bologna",
+    "priceC": 214.21,
+    "priceW": 212.33
+  },
+  {
+    "name": "Shortening",
+    "priceC": 50.22,
+    "priceW": 16.26
+  },
+  {
+    "name": "Ready bake treats",
+    "priceC": 135.47,
+    "priceW": 141.98
+  },
+  {
+    "name": "Cosmetics",
+    "priceC": 218.77,
+    "priceW": 118.18
+  },
+  {
+    "name": "Vector",
+    "priceC": 234.37,
+    "priceW": 210.86
+  },
+  {
+    "name": "Hickory sticks",
+    "priceC": 38.71,
+    "priceW": 29.57
+  },
+  {
+    "name": "Pancakes",
+    "priceC": 113.87,
+    "priceW": 267.71
+  },
+  {
+    "name": "Lemon juice",
+    "priceC": 278.91,
+    "priceW": 71.55
+  },
+  {
+    "name": "Ice cream",
+    "priceC": 261.39,
+    "priceW": 84.56
+  },
+  {
+    "name": "Cinnamon",
+    "priceC": 95.88,
+    "priceW": 162.5
+  },
+  {
+    "name": "Baby food",
+    "priceC": 281.06,
+    "priceW": 74.51
+  },
+  {
+    "name": "Olives",
+    "priceC": 256.48,
+    "priceW": 197.84
+  },
+  {
+    "name": "Mosquito repellant",
+    "priceC": 181.97,
+    "priceW": 36.72
+  },
+  {
+    "name": "Sandwich bread",
+    "priceC": 231.09,
+    "priceW": 216.84
+  },
+  {
+    "name": "Cheese bread",
+    "priceC": 290.13,
+    "priceW": 84.86
+  },
+  {
+    "name": "HP sauce",
+    "priceC": 53.92,
+    "priceW": 193.47
+  },
+  {
+    "name": "Cucumbers",
+    "priceC": 175.94,
+    "priceW": 36.39
+  },
+  {
+    "name": "Teething ring",
+    "priceC": 280.21,
+    "priceW": 265.15
+  },
+  {
+    "name": "Zucchini",
+    "priceC": 172.85,
+    "priceW": 223.93
+  },
+  {
+    "name": "Kohlrabi",
+    "priceC": 93.37,
+    "priceW": 256.2
+  },
+  {
+    "name": "Treats",
+    "priceC": 109.74,
+    "priceW": 66.62
+  },
+  {
+    "name": "Pumpkin",
+    "priceC": 75.71,
+    "priceW": 245.14
+  },
+  {
+    "name": "Escargot (snails)",
+    "priceC": 141.03,
+    "priceW": 279.58
+  },
+  {
+    "name": "Bathroom cleaner",
+    "priceC": 172.83,
+    "priceW": 178.94
+  },
+  {
+    "name": "Stew",
+    "priceC": 44.31,
+    "priceW": 185.69
+  },
+  {
+    "name": "Bar soap",
+    "priceC": 286.36,
+    "priceW": 80.81
+  },
+  {
+    "name": "Bologna",
+    "priceC": 115.83,
+    "priceW": 268.23
+  },
+  {
+    "name": "Reflective collar",
+    "priceC": 239.48,
+    "priceW": 38.35
+  },
+  {
+    "name": "Hash browns",
+    "priceC": 5.67,
+    "priceW": 283.6
+  },
+  {
+    "name": "Razors",
+    "priceC": 86.28,
+    "priceW": 152.77
+  },
+  {
+    "name": "Steak sauce",
+    "priceC": 95.81,
+    "priceW": 227.36
+  },
+  {
+    "name": "Bay leaf",
+    "priceC": 274.42,
+    "priceW": 17.79
+  },
+  {
+    "name": "Doughnuts",
+    "priceC": 204.45,
+    "priceW": 99.28
+  },
+  {
+    "name": "Chicken breast",
+    "priceC": 61.09,
+    "priceW": 72.69
+  },
+  {
+    "name": "Sweet &amp; sour sauce",
+    "priceC": 241.05,
+    "priceW": 203.5
+  },
+  {
+    "name": "Mangoes",
+    "priceC": 58.51,
+    "priceW": 60.3
+  },
+  {
+    "name": "Steak",
+    "priceC": 45.28,
+    "priceW": 28.22
+  },
+  {
+    "name": "Chips",
+    "priceC": 158.24,
+    "priceW": 48.14
+  },
+  {
+    "name": "Grapefruit",
+    "priceC": 232.98,
+    "priceW": 180.11
+  },
+  {
+    "name": "Mac&amp;cheese",
+    "priceC": 282.27,
+    "priceW": 33.27
+  },
+  {
+    "name": "Tomato sauce",
+    "priceC": 209.21,
+    "priceW": 32.65
+  },
+  {
+    "name": "Bacon",
+    "priceC": 262.99,
+    "priceW": 24.36
+  },
+  {
+    "name": "Shrimp",
+    "priceC": 29.32,
+    "priceW": 144.13
+  },
+  {
+    "name": "Turkey pot pie",
+    "priceC": 118.64,
+    "priceW": 234.56
+  },
+  {
+    "name": "Garlic",
+    "priceC": 89.06,
+    "priceW": 78.48
+  },
+  {
+    "name": "Mangoes",
+    "priceC": 209.99,
+    "priceW": 124.97
+  },
+  {
+    "name": "Candy",
+    "priceC": 233.96,
+    "priceW": 111.77
+  },
+  {
+    "name": "Kiwi",
+    "priceC": 223.75,
+    "priceW": 29.94
+  },
+  {
+    "name": "Dental/Breath bones",
+    "priceC": 123.43,
+    "priceW": 101.04
+  },
+  {
+    "name": "Liver",
+    "priceC": 80.36,
+    "priceW": 80.38
+  },
+  {
+    "name": "Olives",
+    "priceC": 270.84,
+    "priceW": 152.57
+  },
+  {
+    "name": "Granola bars",
+    "priceC": 243.11,
+    "priceW": 45.96
+  },
+  {
+    "name": "Rotini",
+    "priceC": 82.57,
+    "priceW": 273.65
+  },
+  {
+    "name": "Onion rings",
+    "priceC": 293.71,
+    "priceW": 50.9
+  },
+  {
+    "name": "Cotton swabs",
+    "priceC": 84,
+    "priceW": 264.88
+  },
+  {
+    "name": "Chili",
+    "priceC": 172.47,
+    "priceW": 126.94
+  },
+  {
+    "name": "Corn meal",
+    "priceC": 188.54,
+    "priceW": 211.83
+  },
+  {
+    "name": "Catnip",
+    "priceC": 81.65,
+    "priceW": 215.06
+  },
+  {
+    "name": "Pickles",
+    "priceC": 289.37,
+    "priceW": 77.96
+  },
+  {
+    "name": "Dishwasher detergent",
+    "priceC": 155.38,
+    "priceW": 87.13
+  },
+  {
+    "name": "Bologna",
+    "priceC": 33.62,
+    "priceW": 21.07
+  },
+  {
+    "name": "Pepto Bismal",
+    "priceC": 283.24,
+    "priceW": 6.71
+  },
+  {
+    "name": "Bologna",
+    "priceC": 216.14,
+    "priceW": 84.81
+  },
+  {
+    "name": "Shortening",
+    "priceC": 144.99,
+    "priceW": 2.87
+  },
+  {
+    "name": "Grapes",
+    "priceC": 268.07,
+    "priceW": 9.75
+  },
+  {
+    "name": "Corn flakes",
+    "priceC": 174.5,
+    "priceW": 281.61
+  },
+  {
+    "name": "Pectin",
+    "priceC": 171.31,
+    "priceW": 182.42
+  },
+  {
+    "name": "First-aid kit",
+    "priceC": 84.32,
+    "priceW": 276.75
+  },
+  {
+    "name": "Napkins",
+    "priceC": 271.24,
+    "priceW": 33.38
+  },
+  {
+    "name": "Club soda",
+    "priceC": 242.21,
+    "priceW": 88.9
+  },
+  {
+    "name": "Tomatoes",
+    "priceC": 118.87,
+    "priceW": 136.99
+  },
+  {
+    "name": "Pectin",
+    "priceC": 44.61,
+    "priceW": 254.35
+  },
+  {
+    "name": "Hash browns",
+    "priceC": 73.74,
+    "priceW": 209.1
+  },
+  {
+    "name": "Beef pot pie",
+    "priceC": 207.81,
+    "priceW": 197.75
+  },
+  {
+    "name": "Rice crispies",
+    "priceC": 213.87,
+    "priceW": 94.56
+  },
+  {
+    "name": "Pork &amp; beans",
+    "priceC": 13.99,
+    "priceW": 138.14
+  },
+  {
+    "name": "Teething ointment",
+    "priceC": 60.38,
+    "priceW": 193.42
+  },
+  {
+    "name": "Mushrooms",
+    "priceC": 150.95,
+    "priceW": 86.72
+  },
+  {
+    "name": "Muslix",
+    "priceC": 205.95,
+    "priceW": 127.26
+  },
+  {
+    "name": "Sandwich bags",
+    "priceC": 227.71,
+    "priceW": 38.63
+  },
+  {
+    "name": "Vacuum bags",
+    "priceC": 294.05,
+    "priceW": 105.55
+  },
+  {
+    "name": "Potato soup",
+    "priceC": 208.74,
+    "priceW": 267.96
+  },
+  {
+    "name": "Stew",
+    "priceC": 243.58,
+    "priceW": 91.22
+  },
+  {
+    "name": "Avocados",
+    "priceC": 205.47,
+    "priceW": 273.24
+  },
+  {
+    "name": "Toilet paper",
+    "priceC": 112.81,
+    "priceW": 56.22
+  },
+  {
+    "name": "Pain reliever",
+    "priceC": 294.87,
+    "priceW": 73.75
+  },
+  {
+    "name": "Maple syrup",
+    "priceC": 60.88,
+    "priceW": 179.42
+  },
+  {
+    "name": "Flounder",
+    "priceC": 182.76,
+    "priceW": 193.54
+  },
+  {
+    "name": "French bread",
+    "priceC": 237.42,
+    "priceW": 37.25
+  },
+  {
+    "name": "Pain reliever",
+    "priceC": 148.02,
+    "priceW": 13
+  },
+  {
+    "name": "Peas",
+    "priceC": 185.96,
+    "priceW": 56
+  },
+  {
+    "name": "Paper plates",
+    "priceC": 197.39,
+    "priceW": 7.92
+  },
+  {
+    "name": "HP sauce",
+    "priceC": 141.81,
+    "priceW": 72.21
+  },
+  {
+    "name": "Wax paper",
+    "priceC": 265.32,
+    "priceW": 45.55
+  },
+  {
+    "name": "Corn",
+    "priceC": 274.66,
+    "priceW": 180.78
+  },
+  {
+    "name": "Sprinkles",
+    "priceC": 52.01,
+    "priceW": 204.87
+  },
+  {
+    "name": "Pasta sauce",
+    "priceC": 201.48,
+    "priceW": 252.07
+  },
+  {
+    "name": "Olives",
+    "priceC": 3.77,
+    "priceW": 182.09
+  },
+  {
+    "name": "Tortillas",
+    "priceC": 242.09,
+    "priceW": 273.03
+  },
+  {
+    "name": "Sandwich bread",
+    "priceC": 59.32,
+    "priceW": 293.56
+  },
+  {
+    "name": "Plastic cutlery",
+    "priceC": 2.9,
+    "priceW": 207.94
+  },
+  {
+    "name": "Burritos",
+    "priceC": 231.54,
+    "priceW": 275.8
+  },
+  {
+    "name": "Nacho chips",
+    "priceC": 81.84,
+    "priceW": 215.81
+  },
+  {
+    "name": "Plastic wrap",
+    "priceC": 19.27,
+    "priceW": 44.1
+  },
+  {
+    "name": "Sun tan lotion",
+    "priceC": 213.37,
+    "priceW": 272.89
+  },
+  {
+    "name": "Salt",
+    "priceC": 155.62,
+    "priceW": 270.93
+  },
+  {
+    "name": "Anti-fungal cream",
+    "priceC": 116.4,
+    "priceW": 293.96
+  },
+  {
+    "name": "Cheezies",
+    "priceC": 107.74,
+    "priceW": 259.25
+  },
+  {
+    "name": "Ground pork",
+    "priceC": 107.02,
+    "priceW": 287.4
+  },
+  {
+    "name": "Cinnamon",
+    "priceC": 211.37,
+    "priceW": 26.92
+  },
+  {
+    "name": "Marmalade",
+    "priceC": 100,
+    "priceW": 265.06
+  },
+  {
+    "name": "Feminine products",
+    "priceC": 271.67,
+    "priceW": 179.57
+  },
+  {
+    "name": "Molasses",
+    "priceC": 283.08,
+    "priceW": 257.51
+  },
+  {
+    "name": "Egg plant",
+    "priceC": 72.09,
+    "priceW": 173.95
+  },
+  {
+    "name": "Red peppers",
+    "priceC": 154.06,
+    "priceW": 140.68
+  },
+  {
+    "name": "Rotini",
+    "priceC": 86.68,
+    "priceW": 89.56
+  },
+  {
+    "name": "Buns",
+    "priceC": 185.94,
+    "priceW": 178.46
+  },
+  {
+    "name": "Body wash",
+    "priceC": 101.15,
+    "priceW": 2.42
+  },
+  {
+    "name": "Sun block",
+    "priceC": 248.2,
+    "priceW": 71.33
+  },
+  {
+    "name": "Bean salad",
+    "priceC": 217.5,
+    "priceW": 209.23
+  },
+  {
+    "name": "Burritos",
+    "priceC": 167.33,
+    "priceW": 120.11
+  },
+  {
+    "name": "Croissants",
+    "priceC": 269.96,
+    "priceW": 167.79
+  },
+  {
+    "name": "Hair gel",
+    "priceC": 297.06,
+    "priceW": 135.25
+  },
+  {
+    "name": "Juice concentrate",
+    "priceC": 39.94,
+    "priceW": 278
+  },
+  {
+    "name": "Melon",
+    "priceC": 112.88,
+    "priceW": 32.72
+  },
+  {
+    "name": "Cinnamon buns",
+    "priceC": 253.25,
+    "priceW": 2.87
+  },
+  {
+    "name": "Raspberries",
+    "priceC": 219.43,
+    "priceW": 128.53
+  },
+  {
+    "name": "Garlic",
+    "priceC": 232.48,
+    "priceW": 266.63
+  },
+  {
+    "name": "Tomato paste",
+    "priceC": 228.92,
+    "priceW": 111.67
+  },
+  {
+    "name": "Cranberries",
+    "priceC": 115.44,
+    "priceW": 56.81
+  },
+  {
+    "name": "Potato nuggets",
+    "priceC": 270.39,
+    "priceW": 169.52
+  },
+  {
+    "name": "Sausage",
+    "priceC": 246.3,
+    "priceW": 82.08
+  },
+  {
+    "name": "Raisin bread",
+    "priceC": 112.02,
+    "priceW": 45.16
+  },
+  {
+    "name": "Cranberries",
+    "priceC": 191.57,
+    "priceW": 6.49
+  },
+  {
+    "name": "Kale",
+    "priceC": 118.72,
+    "priceW": 19.15
+  },
+  {
+    "name": "Garlic",
+    "priceC": 223.88,
+    "priceW": 133
+  },
+  {
+    "name": "Cabbage",
+    "priceC": 68.05,
+    "priceW": 254.6
+  },
+  {
+    "name": "Radishes",
+    "priceC": 92.67,
+    "priceW": 61.39
+  },
+  {
+    "name": "Potato soup",
+    "priceC": 217.85,
+    "priceW": 286.19
+  },
+  {
+    "name": "Fish sticks",
+    "priceC": 45.95,
+    "priceW": 253.57
+  },
+  {
+    "name": "Nuts",
+    "priceC": 43.07,
+    "priceW": 21.52
+  },
+  {
+    "name": "Nacho dip",
+    "priceC": 1,
+    "priceW": 100.78
+  },
+  {
+    "name": "Steak",
+    "priceC": 126.16,
+    "priceW": 243.36
+  },
+  {
+    "name": "Candy",
+    "priceC": 125.54,
+    "priceW": 213.75
+  },
+  {
+    "name": "Salami",
+    "priceC": 48.93,
+    "priceW": 86.04
+  },
+  {
+    "name": "Potato nuggets",
+    "priceC": 197.8,
+    "priceW": 82.89
+  },
+  {
+    "name": "Baby wash",
+    "priceC": 218.73,
+    "priceW": 184.58
+  },
+  {
+    "name": "Sweet &amp; sour sauce",
+    "priceC": 147.67,
+    "priceW": 115.11
+  },
+  {
+    "name": "Chard",
+    "priceC": 134.82,
+    "priceW": 88.24
+  },
+  {
+    "name": "Cheese bread",
+    "priceC": 278.8,
+    "priceW": 33.1
+  },
+  {
+    "name": "Shrimp",
+    "priceC": 254.58,
+    "priceW": 155.39
+  },
+  {
+    "name": "Gum",
+    "priceC": 222.77,
+    "priceW": 211.98
+  },
+  {
+    "name": "Protein bars",
+    "priceC": 153.59,
+    "priceW": 185.16
+  },
+  {
+    "name": "Chip dip",
+    "priceC": 54.67,
+    "priceW": 226.97
+  },
+  {
+    "name": "Ice cream",
+    "priceC": 287.65,
+    "priceW": 31.58
+  },
+  {
+    "name": "Antiseptic - Rubbing alcohol",
+    "priceC": 24.37,
+    "priceW": 233.74
+  },
+  {
+    "name": "Roast beef",
+    "priceC": 31.26,
+    "priceW": 91.21
+  },
+  {
+    "name": "Pain reliever",
+    "priceC": 9.84,
+    "priceW": 185.19
+  },
+  {
+    "name": "Scrubbers",
+    "priceC": 269.12,
+    "priceW": 96.91
+  },
+  {
+    "name": "Sealable bags",
+    "priceC": 239.83,
+    "priceW": 145.22
+  },
+  {
+    "name": "Whipping cream",
+    "priceC": 128.3,
+    "priceW": 274.88
+  },
+  {
+    "name": "Hair spray",
+    "priceC": 33.22,
+    "priceW": 101.43
+  },
+  {
+    "name": "Meat sauce",
+    "priceC": 128.63,
+    "priceW": 214.88
+  },
+  {
+    "name": "Cauliflower",
+    "priceC": 79.31,
+    "priceW": 48.36
+  },
+  {
+    "name": "Bologna",
+    "priceC": 261.19,
+    "priceW": 71.23
+  },
+  {
+    "name": "Paper towels",
+    "priceC": 217.53,
+    "priceW": 136.27
+  },
+  {
+    "name": "Lemon juice",
+    "priceC": 53.33,
+    "priceW": 36.81
+  },
+  {
+    "name": "Sausage",
+    "priceC": 210.33,
+    "priceW": 181.92
+  },
+  {
+    "name": "Chicken breast",
+    "priceC": 62.7,
+    "priceW": 47.12
+  },
+  {
+    "name": "Papaya",
+    "priceC": 275.8,
+    "priceW": 293.28
+  },
+  {
+    "name": "Cilantro",
+    "priceC": 252.72,
+    "priceW": 164.14
+  },
+  {
+    "name": "Margarine",
+    "priceC": 62.72,
+    "priceW": 169.51
+  },
+  {
+    "name": "Collards",
+    "priceC": 81.08,
+    "priceW": 67.1
+  },
+  {
+    "name": "Cabbage",
+    "priceC": 20.36,
+    "priceW": 116.38
+  },
+  {
+    "name": "Bisquick",
+    "priceC": 127.41,
+    "priceW": 298.32
+  },
+  {
+    "name": "Granola bars",
+    "priceC": 242.21,
+    "priceW": 122.16
+  },
+  {
+    "name": "Chicken pot pie",
+    "priceC": 121.68,
+    "priceW": 16.01
+  },
+  {
+    "name": "Cat food",
+    "priceC": 267.43,
+    "priceW": 244.69
+  },
+  {
+    "name": "Beans",
+    "priceC": 251.77,
+    "priceW": 17.47
+  },
+  {
+    "name": "Bathroom cleaner",
+    "priceC": 56.15,
+    "priceW": 245.38
+  },
+  {
+    "name": "Flour",
+    "priceC": 173.36,
+    "priceW": 188.2
+  },
+  {
+    "name": "Carrots",
+    "priceC": 122.44,
+    "priceW": 45.13
+  },
+  {
+    "name": "Cat food",
+    "priceC": 251.03,
+    "priceW": 220.73
+  },
+  {
+    "name": "Oatmeal",
+    "priceC": 23.06,
+    "priceW": 99.36
+  },
+  {
+    "name": "Mangoes",
+    "priceC": 97.76,
+    "priceW": 264.66
+  },
+  {
+    "name": "Baguette",
+    "priceC": 164.02,
+    "priceW": 175.61
+  },
+  {
+    "name": "Melon",
+    "priceC": 7.55,
+    "priceW": 105.73
+  },
+  {
+    "name": "Parsley",
+    "priceC": 252.58,
+    "priceW": 227.98
+  },
+  {
+    "name": "Nectarines",
+    "priceC": 127.65,
+    "priceW": 115.95
+  },
+  {
+    "name": "Tooth Paste",
+    "priceC": 299.16,
+    "priceW": 214.08
+  },
+  {
+    "name": "Pumpkin",
+    "priceC": 208.36,
+    "priceW": 268.62
+  },
+  {
+    "name": "Grapefruit",
+    "priceC": 269.03,
+    "priceW": 72.05
+  },
+  {
+    "name": "Honey comb",
+    "priceC": 151.31,
+    "priceW": 60.68
+  },
+  {
+    "name": "Mushrooms",
+    "priceC": 239.58,
+    "priceW": 113.04
+  },
+  {
+    "name": "Raisin bread",
+    "priceC": 122.86,
+    "priceW": 265.43
+  },
+  {
+    "name": "Pumpkin",
+    "priceC": 67.49,
+    "priceW": 64.58
+  },
+  {
+    "name": "Shaving cream",
+    "priceC": 283.46,
+    "priceW": 298.58
+  },
+  {
+    "name": "Beans",
+    "priceC": 187.22,
+    "priceW": 218.02
+  },
+  {
+    "name": "Plastic containers",
+    "priceC": 123.81,
+    "priceW": 6.89
+  },
+  {
+    "name": "Mangoes",
+    "priceC": 252.09,
+    "priceW": 107.41
+  },
+  {
+    "name": "Honey comb",
+    "priceC": 9.27,
+    "priceW": 286.53
+  },
+  {
+    "name": "Carrots",
+    "priceC": 44.8,
+    "priceW": 141.35
+  },
+  {
+    "name": "Maple syrup",
+    "priceC": 2.17,
+    "priceW": 41.95
+  },
+  {
+    "name": "Fabric softener",
+    "priceC": 193.58,
+    "priceW": 24.39
+  },
+  {
+    "name": "Mixers",
+    "priceC": 159.81,
+    "priceW": 159.37
+  },
+  {
+    "name": "Cilanto",
+    "priceC": 81.75,
+    "priceW": 238.95
+  },
+  {
+    "name": "Garlic bread",
+    "priceC": 13.66,
+    "priceW": 128.29
+  },
+  {
+    "name": "Hot sauce",
+    "priceC": 129.17,
+    "priceW": 120.57
+  },
+  {
+    "name": "Carrots",
+    "priceC": 19.15,
+    "priceW": 276.9
+  },
+  {
+    "name": "Veggie dogs",
+    "priceC": 158.26,
+    "priceW": 261.19
+  },
+  {
+    "name": "Candy",
+    "priceC": 241.5,
+    "priceW": 198.02
+  },
+  {
+    "name": "Gum",
+    "priceC": 154.52,
+    "priceW": 219.46
+  },
+  {
+    "name": "Hash browns",
+    "priceC": 128.23,
+    "priceW": 83.65
+  },
+  {
+    "name": "Shortening",
+    "priceC": 42.39,
+    "priceW": 196.41
+  },
+  {
+    "name": "Crab",
+    "priceC": 10.42,
+    "priceW": 287.34
+  },
+  {
+    "name": "Flour",
+    "priceC": 87.38,
+    "priceW": 168.85
+  },
+  {
+    "name": "Paper towels",
+    "priceC": 108.14,
+    "priceW": 103.15
+  },
+  {
+    "name": "Roast beef",
+    "priceC": 253.31,
+    "priceW": 253.68
+  },
+  {
+    "name": "Marmalade",
+    "priceC": 285.34,
+    "priceW": 189.93
+  },
+  {
+    "name": "Brown sugar",
+    "priceC": 138.78,
+    "priceW": 168.11
+  },
+  {
+    "name": "Cauliflower",
+    "priceC": 206.27,
+    "priceW": 149.34
+  },
+  {
+    "name": "Oysters",
+    "priceC": 47.01,
+    "priceW": 132.22
+  },
+  {
+    "name": "Shreddies",
+    "priceC": 130.97,
+    "priceW": 80.31
+  },
+  {
+    "name": "Antiseptic - Hydrogen Peroxide",
+    "priceC": 56.13,
+    "priceW": 114.89
+  },
+  {
+    "name": "Lettuce",
+    "priceC": 59.97,
+    "priceW": 106.1
+  },
+  {
+    "name": "Popsicles",
+    "priceC": 79.82,
+    "priceW": 49.91
+  },
+  {
+    "name": "Pepper",
+    "priceC": 299.43,
+    "priceW": 294.73
+  },
+  {
+    "name": "Plastic containers",
+    "priceC": 215.9,
+    "priceW": 187.91
+  },
+  {
+    "name": "Hickory sticks",
+    "priceC": 89.71,
+    "priceW": 13.77
+  },
+  {
+    "name": "Sugar substitute",
+    "priceC": 170.51,
+    "priceW": 158.28
+  },
+  {
+    "name": "Chicken nuggets",
+    "priceC": 153.29,
+    "priceW": 250.8
+  },
+  {
+    "name": "Mangoes",
+    "priceC": 231.7,
+    "priceW": 119.63
+  },
+  {
+    "name": "Formula",
+    "priceC": 201.14,
+    "priceW": 158.06
+  },
+  {
+    "name": "Pepperoni",
+    "priceC": 230.93,
+    "priceW": 42.94
+  },
+  {
+    "name": "Turkey",
+    "priceC": 277.93,
+    "priceW": 170.3
+  },
+  {
+    "name": "Jam",
+    "priceC": 158.45,
+    "priceW": 176.96
+  },
+  {
+    "name": "Medicine",
+    "priceC": 87.55,
+    "priceW": 279.26
+  },
+  {
+    "name": "Popcorn",
+    "priceC": 271.46,
+    "priceW": 210.25
+  },
+  {
+    "name": "Chicken wings",
+    "priceC": 176.07,
+    "priceW": 163.71
+  },
+  {
+    "name": "Treats",
+    "priceC": 216.21,
+    "priceW": 149.07
+  },
+  {
+    "name": "Sour cream",
+    "priceC": 160.93,
+    "priceW": 33.1
+  },
+  {
+    "name": "Red snapper",
+    "priceC": 62.92,
+    "priceW": 89.25
+  },
+  {
+    "name": "Turkey pot pie",
+    "priceC": 232.44,
+    "priceW": 148.29
+  },
+  {
+    "name": "Yogurt",
+    "priceC": 131.31,
+    "priceW": 176.48
+  },
+  {
+    "name": "Cake mix",
+    "priceC": 287.66,
+    "priceW": 168.1
+  },
+  {
+    "name": "Breast pads",
+    "priceC": 83.53,
+    "priceW": 31.51
+  },
+  {
+    "name": "Halibut",
+    "priceC": 15.26,
+    "priceW": 3.92
+  },
+  {
+    "name": "Pickles",
+    "priceC": 71.12,
+    "priceW": 129.4
+  },
+  {
+    "name": "Liver",
+    "priceC": 108.26,
+    "priceW": 27.97
+  },
+  {
+    "name": "Mussels",
+    "priceC": 160.75,
+    "priceW": 245.17
+  },
+  {
+    "name": "Sword fish",
+    "priceC": 127.59,
+    "priceW": 46.52
+  },
+  {
+    "name": "Jell-O",
+    "priceC": 140.15,
+    "priceW": 265.82
+  },
+  {
+    "name": "TV dinners",
+    "priceC": 195.2,
+    "priceW": 268.76
+  },
+  {
+    "name": "Treats",
+    "priceC": 70.94,
+    "priceW": 247.97
+  },
+  {
+    "name": "Pork rinds",
+    "priceC": 65.24,
+    "priceW": 177.11
+  },
+  {
+    "name": "Honeydew",
+    "priceC": 134.12,
+    "priceW": 55.11
+  },
+  {
+    "name": "Chicken noodle soup",
+    "priceC": 170.21,
+    "priceW": 75.59
+  },
+  {
+    "name": "Broccoli",
+    "priceC": 224.61,
+    "priceW": 59.07
+  },
+  {
+    "name": "Corn flakes",
+    "priceC": 297.74,
+    "priceW": 95.35
+  },
+  {
+    "name": "Fruit salad",
+    "priceC": 31.82,
+    "priceW": 129.58
+  },
+  {
+    "name": "Corn dogs",
+    "priceC": 108.3,
+    "priceW": 176.77
+  },
+  {
+    "name": "Meat sauce",
+    "priceC": 127.44,
+    "priceW": 229.64
+  },
+  {
+    "name": "Bacon",
+    "priceC": 157.29,
+    "priceW": 122.11
+  },
+  {
+    "name": "Spam",
+    "priceC": 277.94,
+    "priceW": 199.64
+  },
+  {
+    "name": "Grapefruit",
+    "priceC": 189.53,
+    "priceW": 131.51
+  },
+  {
+    "name": "Tea",
+    "priceC": 199.34,
+    "priceW": 216.75
+  },
+  {
+    "name": "Turkey",
+    "priceC": 92.14,
+    "priceW": 98.7
+  },
+  {
+    "name": "Dried fruit",
+    "priceC": 209.41,
+    "priceW": 62.03
+  },
+  {
+    "name": "Buns",
+    "priceC": 123.34,
+    "priceW": 56.13
+  },
+  {
+    "name": "Peas",
+    "priceC": 267.9,
+    "priceW": 32.17
+  },
+  {
+    "name": "Cilanto",
+    "priceC": 203.66,
+    "priceW": 131.74
+  },
+  {
+    "name": "Cheese",
+    "priceC": 42.05,
+    "priceW": 176.72
+  },
+  {
+    "name": "Corn chips",
+    "priceC": 113.72,
+    "priceW": 157.67
+  },
+  {
+    "name": "Peas",
+    "priceC": 105.84,
+    "priceW": 64.5
+  },
+  {
+    "name": "Sugar",
+    "priceC": 37.5,
+    "priceW": 257.92
+  },
+  {
+    "name": "Hot dog buns",
+    "priceC": 256.48,
+    "priceW": 67.86
+  },
+  {
+    "name": "Baby shampoo",
+    "priceC": 98.21,
+    "priceW": 11.47
+  },
+  {
+    "name": "Cauliflower",
+    "priceC": 175.48,
+    "priceW": 236.16
+  },
+  {
+    "name": "Bisquick",
+    "priceC": 278.56,
+    "priceW": 280.1
+  },
+  {
+    "name": "French fries",
+    "priceC": 178.99,
+    "priceW": 27.51
+  },
+  {
+    "name": "Buns",
+    "priceC": 72.64,
+    "priceW": 93.1
+  },
+  {
+    "name": "Potato soup",
+    "priceC": 32.29,
+    "priceW": 164.89
+  },
+  {
+    "name": "Egg plant",
+    "priceC": 92.22,
+    "priceW": 38.07
+  },
+  {
+    "name": "Lemons",
+    "priceC": 172.14,
+    "priceW": 145.88
+  },
+  {
+    "name": "Corn meal",
+    "priceC": 273.73,
+    "priceW": 198.13
+  },
+  {
+    "name": "Brownie mix",
+    "priceC": 255.26,
+    "priceW": 189.57
+  },
+  {
+    "name": "Carrots",
+    "priceC": 238.05,
+    "priceW": 67.44
+  },
+  {
+    "name": "Sealable bags",
+    "priceC": 161.6,
+    "priceW": 32.95
+  },
+  {
+    "name": "Crackers",
+    "priceC": 261.49,
+    "priceW": 202.2
+  },
+  {
+    "name": "Floss",
+    "priceC": 18.9,
+    "priceW": 91.98
+  },
+  {
+    "name": "Corn dogs",
+    "priceC": 63.92,
+    "priceW": 251.13
+  },
+  {
+    "name": "Fruit salad",
+    "priceC": 269.76,
+    "priceW": 126.7
+  },
+  {
+    "name": "Glass cleaner",
+    "priceC": 221.74,
+    "priceW": 107.75
+  },
+  {
+    "name": "Stew",
+    "priceC": 8.82,
+    "priceW": 287.16
+  }
+]

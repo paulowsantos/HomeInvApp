@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -10,50 +11,95 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <TableLayout
-            android:id="@+id/test1"
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardview_id3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="5dp"
+            card_view:cardCornerRadius="4dp"
+            card_view:cardBackgroundColor="#58c6c3c3"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent">
 
-            <TableRow
+            <TableLayout
+                android:id="@+id/tblHead"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
-                <Spinner
-                    android:id="@+id/spinner"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_weight=".6"
-                    android:entries="@array/state" />
-
-                <Button
-                    android:id="@+id/btnAdd"
+                <TableRow
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Query" />
-            </TableRow>
-        </TableLayout>
+                    android:padding="5dip">
 
-        <TextView
-            android:id="@+id/txtResult"
+                    <TextView
+                        android:id="@+id/idHeadName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="textEnd"
+                        android:layout_gravity="end"
+                        android:text="Item"
+                        android:textColor="#000000"
+                        android:textSize="18dp"
+                        android:textStyle="bold"
+                        android:layout_weight="0.3"
+                        android:padding="5dip"/>
+
+                    <TextView
+                        android:id="@+id/idHPriceW"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="textEnd"
+                        android:layout_gravity="end"
+                        android:text="$ Walmart"
+                        android:textColor="#000000"
+                        android:textSize="18dp"
+                        android:textStyle="bold"
+                        android:layout_weight="0.3"
+                        android:padding="5dip"/>
+
+                    <TextView
+                        android:id="@+id/idHPriceC"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="textEnd"
+                        android:layout_gravity="end"
+                        android:text="$ Superstore"
+                        android:textColor="#000000"
+                        android:textSize="18dp"
+                        android:textStyle="bold"
+                        android:layout_weight="0.3"
+                        android:padding="5dip"/>
+
+                </TableRow>
+
+            </TableLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerId3"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="@android:color/holo_blue_light"
-            android:textSize="20sp"
-            app:layout_constraintTop_toBottomOf="@id/test1"
+            android:layout_height="match_parent"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            app:layout_constraintTop_toBottomOf="@+id/cardview_id3"
+            app:layout_constraintBottom_toTopOf="@+id/recyclerId4"
             app:layout_constraintStart_toStartOf="parent"/>
 
-        <TableLayout
-            android:id="@+id/tblResult"
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerId4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:layout_constraintTop_toBottomOf="@id/txtResult"
-            app:layout_constraintStart_toStartOf="parent">
-
-        </TableLayout>
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="25dp"
+            android:layout_marginRight="5dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
